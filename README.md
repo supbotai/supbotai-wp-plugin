@@ -1,4 +1,4 @@
-# supbotai ChatGPT Plugin for WordPress
+# SupBotAi ChatGPT Plugin for WordPress
 
 ## Description
 
@@ -13,9 +13,9 @@
 
 ## Installation
 
-1. Clone the repository or download the ZIP file.
-2. Upload the plugin files to your WordPress website under the `/wp-content/plugins/supbotai` directory.
-3. Activate the plugin through the 'Plugins' screen in WordPress.
+1. Download the zip file of the latest version from the [Releases section](https://github.com/supbotai/supbotai-wp-plugin/releases/latest)
+2. Install the plugin through the 'Plugins' screen in WordPress.
+3. Activate the plugin.
 4. Configure the plugin by entering your Project Key, which can be obtained by creating a free account on [supbot.ai](https://supbot.ai).
 
 ## Usage
