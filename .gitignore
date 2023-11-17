@@ -1,0 +1,23 @@
+# General
+*.log
+*.sql
+*.sqlite
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Build directories
+/build/
+/dist/
+
+# Dependencies
+/vendor/
+
+# Ignore specific config files
+wp-config.php
