@@ -16,7 +16,7 @@
 1. Clone the repository or download the ZIP file.
 2. Upload the plugin files to your WordPress website under the `/wp-content/plugins/supbotai` directory.
 3. Activate the plugin through the 'Plugins' screen in WordPress.
-4. Configure the plugin by entering your Project Key, which can be obtained by creating a free account on [supbot.ai](https://www.supbot.ai).
+4. Configure the plugin by entering your Project Key, which can be obtained by creating a free account on [supbot.ai](https://supbot.ai).
 
 ## Usage
 
@@ -28,8 +28,8 @@ Contributions to the supbotai ChatGPT plugin are welcome. Please read our [contr
 
 ## License
 
-This project is licensed under the GNU General Public License v2.0. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GNU General Public License v2.0. See the [LICENSE](LICENSE.md) file for more details.
 
 ## Support
 
-For support, feature requests, or any other inquiries, please visit [supbot.ai](https://www.supbot.ai/support).
+For support, feature requests, or any other inquiries, please contact info@supbot.ai
